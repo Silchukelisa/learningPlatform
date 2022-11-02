@@ -106,4 +106,9 @@ public class PageController {
     public String authPage() {
         return "login";
     }
+
+    @GetMapping("/dogPictures")
+    public String dogPictures() {
+        return "dogPictures";
+    }
 }

@@ -167,6 +167,8 @@ navbar:
       /personalData
     - Собеседования
       /interviewReports
+    - Картинки пёсиков
+      /dogPictures
   graduate:
     - Курсы
       /courses
